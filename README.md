@@ -1,2 +1,1 @@
-﻿# Python Dictionary Inheritance Operations
- Python project using MoviePy to convert video (.mp4) to audio (.mp3). Ideal for quick podcast/audio archive extraction.
+﻿# Extracts audio from videos and supports automatic trimming for summaries — useful for social content creators.
